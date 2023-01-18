@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gbemisola-portfolio/static/css/main.b8c956e1.css",
+    "main.js": "/gbemisola-portfolio/static/js/main.e063e4ed.js",
+    "static/media/Burtons.otf": "/gbemisola-portfolio/static/media/Burtons.c46a2405716f236c4a9a.otf",
+    "index.html": "/gbemisola-portfolio/index.html",
+    "main.b8c956e1.css.map": "/gbemisola-portfolio/static/css/main.b8c956e1.css.map",
+    "main.e063e4ed.js.map": "/gbemisola-portfolio/static/js/main.e063e4ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c956e1.css",
+    "static/js/main.e063e4ed.js"
+  ]
+}
